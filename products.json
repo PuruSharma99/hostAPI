@@ -1,5 +1,4 @@
-{
-    "products" : [
+[
     {
         "id": 1,
         "productName": "Dragon Glass",
@@ -61,5 +60,3 @@
         "productPrice": 1499
       }
 ]
-
-}
